@@ -1,2 +1,1 @@
-# PrepCourse-Herny
-Este es un repositorio de prueba del modulo2 del PrepCourse de Herny
+Este proyecto es una prueba
